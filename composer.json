@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii2-bootstrap",
+    "name": "rusavskiy/yii2-bootstrap",
     "description": "The Twitter Bootstrap extension for the Yii framework",
     "keywords": ["yii2", "bootstrap"],
     "type": "yii2-extension",
@@ -21,11 +21,6 @@
         "yiisoft/yii2": "~2.0.6",
         "bower-asset/bootstrap": "~4.0.0@beta",
         "bower-asset/popper.js": "~1.12.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "yii\\bootstrap\\": ""
-        }
     },
     "extra": {
         "branch-alias": {
